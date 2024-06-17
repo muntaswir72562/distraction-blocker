@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 250px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+input[type='text'] {
+    width: calc(100% - 22px);
+    padding: 5px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
